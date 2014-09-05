@@ -13,7 +13,7 @@ of errors with the following properties:
 
 * `message`: the error message
 * `line`: the line the error appears in the shader.
-* `column`: the column of that line the error refers to.
+* `file`: the file ID that the error appears in.
 
 ## License
 
