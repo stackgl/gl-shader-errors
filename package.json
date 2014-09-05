@@ -10,10 +10,10 @@
     "email": "hughskennedy@gmail.com",
     "url": "http://hughsk.io/"
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "tape": "^2.14.0"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git://github.com/stackgl/gl-shader-errors.git"
