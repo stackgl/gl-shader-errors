@@ -1,0 +1,33 @@
+{
+  "name": "gl-shader-errors",
+  "version": "1.0.0",
+  "description": "\"Parses\" the log output of gl.getShaderInfoLog",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "author": {
+    "name": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "http://hughsk.io/"
+  },
+  "dependencies": {
+    "tape": "^2.14.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stackgl/gl-shader-errors.git"
+  },
+  "keywords": [
+    "stackgl",
+    "gl",
+    "webgl",
+    "error",
+    "parse",
+    "shader"
+  ],
+  "homepage": "https://github.com/stackgl/gl-shader-errors",
+  "bugs": {
+    "url": "https://github.com/stackgl/gl-shader-errors/issues"
+  }
+}
