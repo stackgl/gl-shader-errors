@@ -1,6 +1,6 @@
 {
   "name": "gl-shader-errors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"Parses\" the log output of gl.getShaderInfoLog",
   "main": "index.js",
   "license": "MIT",
