@@ -6,7 +6,14 @@
 
 [![NPM](https://nodei.co/npm/gl-shader-errors.png)](https://nodei.co/npm/gl-shader-errors/)
 
-### `errors = `
+### `errors = parse(log)`
+
+Where `log` is the string output of `gl.getShaderInfoLog`, return an array
+of errors with the following properties:
+
+* `message`: the error message
+* `line`: the line the error appears in the shader.
+* `column`: the column of that line the error refers to.
 
 ## License
 
